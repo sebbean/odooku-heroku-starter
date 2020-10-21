@@ -1,2 +1,2 @@
-odooku-odoo-addons>=11.0.0,<14.0.0
-odooku>=11.0.0,<14.0.0
+odooku-odoo-addons>=13.0.0,<14.0.0
+odooku>=13.0.0,<14.0.0
