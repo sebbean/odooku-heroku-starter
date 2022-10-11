@@ -1,2 +1,3 @@
 odooku-odoo-project>=11.0.0,<12.0.0
 odooku>=11.0.0,<12.0.0
+setuptools<58.0.0
